@@ -17,23 +17,18 @@
 
 ## 🛠️Tech Stack🛠️
 Frontend  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>  
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,prisma&theme=light)](https://skillicons.dev)
+
 Backend  
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,nginx,githubactions,rabbitmq&theme=light)](https://skillicons.dev)
+
 Database  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>  
-Tools  
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>  
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongodb&theme=light)](https://skillicons.dev)
+
+ETC
+
+[![My Skills](https://skillicons.dev/icons?i=py,androidstudio,anaconda,arduino,blender,figma&theme=light)](https://skillicons.dev)
+
 
 ## ⬇️Find me at⬇️
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somi4219@gmail.com)](mailto:somi4219@gmail.com)
-   
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:somi4219@gmail.com)   
